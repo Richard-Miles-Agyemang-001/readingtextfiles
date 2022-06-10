@@ -7,7 +7,7 @@ import string
 
 def read_file_content(filename):
     # [assignment] Add your code here 
-    with open(filename) as file
+    with open(filename) as file:
    file_content = file.read()
     return file_content
 
