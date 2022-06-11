@@ -24,8 +24,7 @@ for word in split_text:
     word_count[word] = split_text.count(word)
     return word_count
  
- 
-
+ print (count_words())
 
 
    
